@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "text": "معرفی توریست پنل",
+            "path": "fa/about-tourist-panel.md"
+        },
+        {
+            "text": "ثبت نام و ورود",
+            "path": "fa/signup-and-login.md"
+        },
+        {
+            "text": "استارت",
+            "path": "fa/start/index.md",
+            "items": [
+            {
+                "text": "اَپلیکیشن ها",
+                "path": "fa/start/applications.md"
+            },
+            {
+                "text": "کیف پول ها",
+                "path": "fa/start/wallets.md"
+            }
+        ]
+        },
+        {
+            "text": "مدیریت تفریحات",
+            "items": [
+                {
+                    "text": "مدیریت برنامه مرجع",
+                    "path": "fa/provider/entertainment/program-management.md"
+                },
+                {
+                    "text": "مدیریت سانس",
+                    "path": "fa/provider/entertainment/event-management.md"
+                }
+            ]
+        }
+    ]
+}
