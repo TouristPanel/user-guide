@@ -3,10 +3,5 @@
         "DisplayName": "فارسی",
         "Code": "fa",
         "IsDefault": true
-    },
-    {
-        "DisplayName": "en",
-        "Code": "en",
-        "IsDefault": false
     }]
 }

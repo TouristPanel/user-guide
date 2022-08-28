@@ -23,17 +23,25 @@
         ]
         },
         {
-            "text": "مدیریت تفریحات",
+            "text": "تامین کننده",
+            "path": "provider/index.md",
             "items": [
                 {
-                    "text": "مدیریت برنامه مرجع",
-                    "path": "provider/entertainment/program-management.md"
-                },
-                {
-                    "text": "مدیریت سانس",
-                    "path": "provider/entertainment/event-management.md"
+                    "text": "مدیریت تفریحات",
+                    "path": "provider/entertainment/index.md",
+                    "items": [
+                        {
+                            "text": "مدیریت برنامه مرجع",
+                            "path": "provider/entertainment/program-management.md"
+                        },
+                        {
+                            "text": "مدیریت سانس",
+                            "path": "provider/entertainment/event-management.md"
+                        }
+                    ]
                 }
-            ]
+        ]
         }
+       
     ]
 }
