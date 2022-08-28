@@ -1,7 +1,7 @@
 {
     "Languages": [{
         "DisplayName": "فارسی",
-        "Code": "fa-IR",
+        "Code": "fa",
         "IsDefault": true
     }]
 }
