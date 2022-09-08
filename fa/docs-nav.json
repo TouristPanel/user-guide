@@ -74,11 +74,11 @@
           "items": [
             {
               "text": "کاربران داخلی",
-              "path": "panel-management/internal-users.md"
+              "path": "panel-managements/internal-users.md"
             },
             {
               "text": "نقش ها",
-              "path": "panel-management/roles.md"
+              "path": "panel-managements/roles.md"
             }
           ]
         },
@@ -164,15 +164,15 @@
           "items": [
             {
               "text": "کاربران داخلی",
-              "path": "panel-management/internal-users.md"
+              "path": "panel-managements/internal-users.md"
             },
             {
               "text": "نقش ها",
-              "path": "panel-management/roles.md"
+              "path": "panel-managements/roles.md"
             },
             {
               "text": "نمایندگان فروش",
-              "path": "panel-management/agent-users.md"
+              "path": "panel-managements/agent-users.md"
             }
           ]
         },
