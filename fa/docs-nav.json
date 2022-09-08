@@ -1,47 +1,214 @@
 {
-    "items": [
+  "items": [
+    {
+      "text": "معرفی توریست پنل",
+      "path": "about-tourist-panel.md"
+    },
+    {
+      "text": "ثبت نام و ورود",
+      "path": "signup-and-login.md"
+    },
+    {
+      "text": "استارت",
+      "path": "start/index.md",
+      "items": [
         {
-            "text": "معرفی توریست پنل",
-            "path": "about-tourist-panel.md"
+          "text": "اَپلیکیشن ها",
+          "path": "start/applications.md"
         },
         {
-            "text": "ثبت نام و ورود",
-            "path": "signup-and-login.md"
-        },
+          "text": "کیف پول ها",
+          "path": "start/wallets.md"
+        }
+      ]
+    },
+    {
+      "text": "تامین کننده",
+      "path": "provider/index.md",
+      "items": [
         {
-            "text": "استارت",
-            "path": "start/index.md",
-            "items": [
+          "text": "مدیریت تفریحات",
+          "path": "provider/entertainment/index.md",
+          "items": [
             {
-                "text": "اَپلیکیشن ها",
-                "path": "start/applications.md"
+              "text": "برنامه مرجع",
+              "path": "provider/entertainment/program-management/index.md",
+              "items": [
+                {
+                  "text": "مدیریت برنامه مرجع",
+                  "path": "provider/entertainment/program-management/manage-program.md"
+                },
+                {
+                  "text": "ایجاد برنامه مرجع جدید",
+                  "path": "provider/entertainment/program-management/create-new-program.md"
+                }
+              ]
             },
             {
-                "text": "کیف پول ها",
-                "path": "start/wallets.md"
+              "text": "مدیریت سانس",
+              "path": "provider/entertainment/event-management.md"
             }
-        ]
+          ]
         },
         {
-            "text": "تامین کننده",
-            "path": "provider/index.md",
-            "items": [
-                {
-                    "text": "مدیریت تفریحات",
-                    "path": "provider/entertainment/index.md",
-                    "items": [
-                        {
-                            "text": "مدیریت برنامه مرجع",
-                            "path": "provider/entertainment/program-management.md"
-                        },
-                        {
-                            "text": "مدیریت سانس",
-                            "path": "provider/entertainment/event-management.md"
-                        }
-                    ]
-                }
-        ]
+          "text": "مدیریت واچر ها",
+          "path": "provider/voucher-managements/index.md",
+          "items": [
+            {
+              "text": "پیگیری واچر",
+              "path": "provider/voucher-managements/index.md"
+            },
+            {
+              "text": "کارتابل کنسلی",
+              "path": "provider/voucher-managements/cancelation-inbox.md"
+            },
+            {
+              "text": "ابطال واچر",
+              "path": "provider/voucher-managements/vouchers-revoking.md"
+            }
+          ]
+        },
+        {
+          "text": "مدیریت پنل",
+          "path": "panel-management/index.md",
+          "items": [
+            {
+              "text": "کاربران داخلی",
+              "path": "panel-management/internal-users.md"
+            },
+            {
+              "text": "نقش ها",
+              "path": "panel-management/roles.md"
+            }
+          ]
+        },
+        {
+          "text": "مدیریت مالی",
+          "path": "provider/financial-managements/index.md",
+          "items": [
+            {
+              "text": "کیف پول",
+              "path": "provider/financial-managements/wallets.md"
+            },
+            {
+              "text": "اعتبارات",
+              "path": "provider/financial-managements/credits.md"
+            },
+            {
+              "text": "تسویه",
+              "path": "provider/financial-managements/settlement-requests.md"
+            }
+          ]
+        },
+        {
+          "text": "گزارشات",
+          "path": "provider/reports/index.md",
+          "items": [
+            {
+              "text": "گزارش فروش تفریحات",
+              "path": "provider/reports/entertainment.md"
+            },
+            {
+              "text": "گزارش تراکنش واچر",
+              "path": "provider/reports/voucher-transactions.md"
+            },
+            {
+              "text": "گزارش رزرو موقت",
+              "path": "provider/reports/temporary-reservations.md"
+            }
+          ]
+        },
+        {
+          "text": "گیشه فروش خدمات",
+          "path": "provider/gishe/index.md",
+          "items": [
+            {
+              "text": "گیشه تفریحات",
+              "path": "provider/gishe/entertainment.md"
+            }
+          ]
         }
-       
-    ]
+      ]
+    },
+    {
+      "text": "آژانس (فروشنده خدمات)",
+      "path": "agency/index.md",
+      "items": [
+        {
+          "text": "فروش خدمات",
+          "path": "agency/reservation/index.md",
+          "items": [
+            {
+              "text": "فروش تفریحات",
+              "path": "agency/reservation/entertainment.md"
+            }
+          ]
+        },
+        {
+          "text": "مدیریت واچر ها",
+          "path": "agency/voucher-managements/index.md",
+          "items": [
+            {
+              "text": "پیگیری واچر",
+              "path": "agency/voucher-managements/index.md"
+            },
+            {
+              "text": "کارتابل کنسلی",
+              "path": "agency/voucher-managements/cancelation-inbox.md"
+            }
+          ]
+        },
+        {
+          "text": "مدیریت پنل",
+          "path": "panel-management/index.md",
+          "items": [
+            {
+              "text": "کاربران داخلی",
+              "path": "panel-management/internal-users.md"
+            },
+            {
+              "text": "نقش ها",
+              "path": "panel-management/roles.md"
+            },
+            {
+              "text": "نمایندگان فروش",
+              "path": "panel-management/agent-users.md"
+            }
+          ]
+        },
+        {
+          "text": "مدیریت مالی",
+          "path": "agency/financial-managements/index.md",
+          "items": [
+            {
+              "text": "کیف پول",
+              "path": "agency/financial-managements/wallets.md"
+            },
+            {
+              "text": "اعتبارات",
+              "path": "agency/financial-managements/credits.md"
+            }
+          ]
+        },
+        {
+          "text": "گزارشات",
+          "path": "agency/reports/index.md",
+          "items": [
+            {
+              "text": "گزارش فروش تفریحات",
+              "path": "agency/reports/entertainment.md"
+            },
+            {
+              "text": "گزارش تراکنش واچر",
+              "path": "agency/reports/voucher-transactions.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "نسخه ها و به روزرسانی ها",
+      "path": "version-change-log.md"
+    }
+  ]
 }
