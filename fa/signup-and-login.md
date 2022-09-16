@@ -37,7 +37,7 @@
 
 ## **فلو چارت ثبت نام و ورود به صفحه استارت**
 
-![](images/signup-and-login-flowchart.png)
+![](signup-and-login-flowchart.png)
 
 
 

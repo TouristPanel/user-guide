@@ -128,7 +128,7 @@
 
 در تصویر ذیل، فرآیند ایجاد سانس آورده شده است. 
 
-![](../../images/create-new-entertainment-eventsans-flowchart.png)
+![](create-new-entertainment-eventsans-flowchart.png)
 
 نمودار فرآیند ایجاد سانس
 

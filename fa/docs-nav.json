@@ -28,20 +28,19 @@
       "items": [
         {
           "text": "مدیریت تفریحات",
-          "path": "provider/entertainment/index.md",
           "items": [
             {
               "text": "برنامه مرجع",
               "path": "provider/entertainment/program-management/index.md",
               "items": [
                 {
-                  "text": "مدیریت برنامه مرجع",
-                  "path": "provider/entertainment/program-management/manage-program.md"
-                },
-                {
                   "text": "ایجاد برنامه مرجع جدید",
                   "path": "provider/entertainment/program-management/create-new-program.md"
-                }
+                },
+                {
+                  "text": "مدیریت برنامه مرجع",
+                  "path": "provider/entertainment/program-management/manage-program.md"
+                }              
               ]
             },
             {
